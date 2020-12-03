@@ -1,0 +1,2 @@
+(this["webpackJsonpsynthetix.exchange"]=this["webpackJsonpsynthetix.exchange"]||[]).push([[18],{903:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return l}));var a=t(0),c=t.n(a),r=t(363),u=t(269),l=function(){return c.a.createElement(c.a.Fragment,null,c.a.createElement(r.a,null),c.a.createElement(u.a,null))}}}]);
+//# sourceMappingURL=18.6b10bb1f.chunk.js.map
